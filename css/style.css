@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+
+.nav-list {
+    margin: 20px;
+}
+
+.header {
+    background-color: #da1e37;
+    box-shadow: 0 0 0 3px black;
+
+}
